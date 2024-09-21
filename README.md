@@ -9,4 +9,4 @@ I am poised to contribute effectively to a team that values innovation and a for
 I'm pursuing at College
 
 # 😄 Fun facts
-I love playing offline games as fun as programming with possible logics
+I love playing offline games as fun as programming with possible and optimal logics
