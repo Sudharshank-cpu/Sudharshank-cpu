@@ -21,6 +21,5 @@
 # 😄 Fun facts
 <ul>
   <li>I love playing offline games.</li>
-  <li>I like differnt ways of programming with possible and optimal logics</li>
+  <li>I like different ways of programming with possible and optimal logics</li>
 </ul>
-
